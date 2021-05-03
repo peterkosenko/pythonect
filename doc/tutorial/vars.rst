@@ -101,7 +101,7 @@ This will print, each in its own thread, and not necessarily in that order:
 ``_!`` as All Current Values
 ----------------------------
 
-The variable underscore question mark (i.e. ``_!``) is predefined to be the
+The variable underscore exclamation mark (i.e. ``_!``) is predefined to be the
 list of all the current values in the program (i.e. ``reduce()``'ed), for
 example: 
 ::
